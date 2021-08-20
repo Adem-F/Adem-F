@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Adem-F
 - 👀 I’m interested in process automation, python, javascript, linux
-- 🌱 I’m currently learning ... DevOps
 - 📫 How to reach me ...adem-eff@protonmail.com
 
 <!---
